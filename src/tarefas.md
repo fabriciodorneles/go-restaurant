@@ -3,13 +3,16 @@
 - Index OK - App OK - Routes OK - API OK - Routes (tem a raiz)
 [ ] Dashboard
   [X] loadFoods
-  [ ] handleAddFood
+  [X] handleAddFood
   [ ] handleUpdateFood
   [ ] HandleDeleteFood
+  [X] HandleEditingFood
+[X] Header
+  [X] onClick Open Modal
 [ ] ModalEditFood
   [ ] handleSubmit
-[ ] ModalAddFood
-  [ ] handleSubmit
+[X] ModalAddFood
+  [X] handleSubmit
 [ ] Food
   [ ] toggleAvailable
-  [ ] setEditingFood
+  [X] setEditingFood
